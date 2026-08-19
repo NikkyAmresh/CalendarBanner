@@ -20,3 +20,11 @@ xcuserdata/
 
 # Misc
 *.log
+node_modules
+.venv
+venv
+build
+dist
+.next
+.dart_tool
+__pycache__
